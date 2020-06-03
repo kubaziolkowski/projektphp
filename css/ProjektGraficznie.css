@@ -1,0 +1,48 @@
+body {
+  background-color: #FFDF00;
+}
+.NaglowekLogowania {
+  width: 100px;
+  background-color: #0fba77;
+  border: 2px solid black;
+}
+.logowanie {
+  font-family: arial;
+  margin-left: 680px;
+  margin-right: 100px;
+  background-color: #F0F0F0;
+  width: 300px;
+  border: 2px solid black;
+}
+.InfoOBonusie {
+  font-family: arial;
+  background-color: #F6D743;
+
+}
+.WitajGraczu{
+    font-family: arial;
+    background-color: #5FDDE5;
+    margin-left: 700px;
+    width: 200px;
+    height: 125px;
+    border: 2px solid black;
+}
+
+.kupon {
+font-family: arial;
+margin-right: 1250px;
+  background-color: #A8DF65;
+  border: 2px solid black;
+}
+.naglowekkuponu {
+  font-family: arial;
+  margin-right: 1250px;
+  background-color: #79D70F;
+  border: 2px solid black;
+}
+.gotowyKupon {
+  font-family: arial;
+  margin-right: 1250px;
+  background-color: #79D70F;
+  border: 2px solid black;
+}
